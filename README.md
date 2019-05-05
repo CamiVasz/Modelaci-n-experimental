@@ -27,8 +27,8 @@ $ jupyter notebook Entrega2/LS.ipynb
 * [Python 3.7](https://www.python.org/) - Time Series analysis, LS estimation.
 * [MATLAB](https://www.mathworks.com/products/matlab.html) - Time series simulation.
 
-## Authors
+## Autores
 
-* **María Camila Vásquez Correa** - [camivasz](https://github.com/camivasz).
-* **Nicolás Villegas Vargas** 
+* **María Camila Vásquez Correa** - [camivasz](https://github.com/camivasz) - mvasqu49[at]eafit.edu.co
+* **Nicolás Villegas Vargas** - nville12[at]eafit.edu.co
 
