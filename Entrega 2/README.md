@@ -9,4 +9,5 @@ pueden encontrar las simulaciones realizadas.
 * Mínimos cuadrados ordinarios.
 * Mínimos cuadrados con variables instrumentales.
 * Mínimos cuadrados recursivos.
-* Mínimos cuadrados robustos.
+
+De la misma manera, la descripción de los métodos y el análisis de resultados puede ser encontrado en el documento adjunto.
